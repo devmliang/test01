@@ -1,1 +1,3 @@
-echo "123" > 123.txt
+echo "123" > /home/docker/123.txt
+cd /home/docker
+mkdir testforder
